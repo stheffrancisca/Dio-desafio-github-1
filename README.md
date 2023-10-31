@@ -2,4 +2,4 @@
 Primeiro projeto sobre Git/GitHub
 
 ## Links úteis
-[sintaxe_basica_Markdowm]
+[sintaxe_basica_Markdowm](www.markdowmguide.org/basic-syntax/)
