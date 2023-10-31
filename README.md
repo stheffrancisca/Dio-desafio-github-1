@@ -1,2 +1,2 @@
-# Dio-desafio-github-1
+# Dio-desafio-GitHub-1
 Primeiro projeto sobre Git/GitHub
